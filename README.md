@@ -1,4 +1,2 @@
 # bottlerocket-eks
 
-
-# bottlerocket-eks
